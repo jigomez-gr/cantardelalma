@@ -31,14 +31,14 @@ const VIDEO_CATEGORIES: VideoCategory[] = [
             {
                 title: "Cantar del Alma - Concierto para Voz y Piano",
                 description: "Presentación en directo del proyecto central, hilando la voz de la soprano con interpretaciones pianísticas emotivas.",
-                filePath: "/videos/Cantar_del_Alma,_concierto_para_voz_y_piano_de_música_española_del_siglo_XX_y_XXI.mp4",
+                filePath: "/videos/cantar_del_alma_concierto.mp4",
                 duration: "03:12",
                 transcriptionSnippet: "...Que la coraje esperanta se me ha convertido en verano, verano amor. Sube, sube, valdón mío..."
             },
             {
                 title: "Mompou - Cantar del alma (San Juan de la Cruz)",
                 description: "Pieza intimista al piano inspirada en el canto litúrgico medieval y los poemas de misticismo español.",
-                filePath: "/videos/Mompou-Cantar_del_alma_San_Juan_de_la_Cruz.mp4",
+                filePath: "/videos/mompou_cantar_del_alma_san_juan.mp4",
                 duration: "05:12",
                 transcriptionSnippet: "...Aqueste eterno fuente que nace de esta fuente bien se que están capaz y tan potente, aunque este noche..."
             }
@@ -54,28 +54,28 @@ const VIDEO_CATEGORIES: VideoCategory[] = [
             {
                 title: "Chi vi dará più luce",
                 description: "Interpretación renacentista italiana de corte sacra y amor cortés, centrada en la búsqueda y expresión mística.",
-                filePath: "/videos/Chi_vi_dará_più_luce.mp4",
+                filePath: "/videos/chi_vi_dara_piu_luce.mp4",
                 duration: "01:50",
                 transcriptionSnippet: "...Que vino la più lucha o que me lasi... Y tu mi alma y tu língua y tu mano no tiene que decir, ni pensar..."
             },
             {
                 title: "Concierto Día de la Arquitectura (F. Varoter 1502)",
                 description: "Extracto en acústica en directo, reflexionando sobre la dualidad entre el espacio arquitectónico, el sonido y el silencio.",
-                filePath: "/videos/Concierto_Dia_de_la_Arquitectura_2011_F._Varoter_1502.mp4",
+                filePath: "/videos/concierto_dia_de_la_arquitectura.mp4",
                 duration: "04:15",
                 transcriptionSnippet: "...El silencio no existe, siendo la tarea del compositor el descubrir los medios que consienten a los sonidos..."
             },
             {
                 title: "A Canción da Auga - Recital de Canción y Poesía",
                 description: "Una interpretación poética que emula la caída del agua y los sonidos del viento a través de la métrica gallega.",
-                filePath: "/videos/A_Canción_da_Auga_recital_de_canción_y_poesía.mp4",
+                filePath: "/videos/a_cancion_da_auga.mp4",
                 duration: "02:45",
                 transcriptionSnippet: "Préstame, chuvias, tuas palabras, etí, vento, asideas tan longas, déjame ote un rezo breve, río..."
             },
             {
                 title: "O meu corasón che mando",
                 description: "Tema tradicional gallego con acompañamiento al piano de Aurelio Viribay, repleto de melancolía y lirismo.",
-                filePath: "/videos/O_meu_corasón_che_mando_Aurelio_Viribay).mp4",
+                filePath: "/videos/o_meu_corason_che_mando.mp4",
                 duration: "03:01",
                 transcriptionSnippet: "O meu corazón che mando... cantando con cariño e verbas de amor..."
             }
