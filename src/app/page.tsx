@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
-import { prisma } from "@/lib/db";
 import Navbar from "@/components/Navbar";
 import PerformersSection from "@/components/PerformersSection";
 import VideoGallery from "@/components/VideoGallery";
