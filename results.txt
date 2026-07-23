@@ -1,0 +1,136 @@
+=== SEARCH RESULTS ===
+
+HREFs found: 21
+HREF: https://cdn.website-editor.net/s/ef6a549a25a24bf98a426a8123805676/dms3rep/multi/SERIE+5+new+rojo+y+negro+2.jpg?Expires=1784739106&Signature=SHpmdBvcKczSdyqsgs1a~VVBtrbMqXeUJw494huK1oKlfYX4kAGm3TKxWab4lcTg2kRLW2z0nMln4UX8WsU7m1XyOW-KubqmYDl~hxLzQoSGenY3ZQPr34khZmyQQVdlB6hx3RS307Ne1EDoeSRIb3yfAgI5Cx2rFmd1ALa5xHko6gMOmYnvnvLj~eFeknwqUXv5jzQomNoqB1Bo2O6AyKO2qXwfVc3d6vK9gF5txkzK~0Nh0cJxlvLRn6SAVQ2GX0qtYA4GULaWoqo0HxwLIgvRwIaV9qXE1xdRtyCo2bqtXeTLFZiKoJMZWpMWlwgXiZFvkVTgbzP1HmojTqgX6A__&Key-Pair-Id=K2NXBXLF010TJW
+HREF: https://cdn.website-editor.net/ef6a549a25a24bf98a426a8123805676/site_favicon_16_1633013488149.ico
+HREF: https://cdn.website-editor.net/fonts/css2?family=Roboto:wght@100;300;400;500;700;900&family=Montserrat:wght@100..900&family=Cabin:wght@400..700&family=Fjalla+One:wght@400&family=Crete+Round:wght@400&family=Oswald:wght@200..700&family=Source+Sans+Pro:wght@200;300;400;600;700;900&family=Alegreya:wght@400..900&amp;subset=latin-ext&amp;display=swap
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--musica-de-camara-l-van-beethoven-i
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla-musica-de-camara-l-van-beethoven-ii
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--el-nacimiento-de-la-opera
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-la-escuela-sevillana
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-la-escuela-sevillana-27-nov
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-de-la-cal
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-de-la-cal20211210
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--tango
+HREF: https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla-musica-de-camara-l-van-beethoven-iii
+HREF: https://www.giglon.com/evento/abono-ccmfall-01
+HREF: https://www.giglon.com/evento/abono-ccmfalla-02-flamenco
+HREF: https://www.giglon.com/evento/abono-ccmfalla-03-mixto
+HREF: https://www.giglon.com/evento/abono-04-completo
+HREF: https://www.giglon.com/
+HREF: https://www.facebook.com/Ciclo-de-Conciertos-Manuel-de-FALLA-105137291954898
+HREF: https://www.linkedin.com/in/ciclo-de-conciertos-manuel-de-falla-3b7095222/
+HREF: https://www.facebook.com/profile.php?id=100075180446592
+HREF: https://www.ionos.es/pagina-web/crear-pagina-web
+
+SRCs found: 0
+
+=== WIDGET & CLASS SEARCH ===
+MATCH: InitialPageAlias: 'entradas-y-abonos-ccmf',
+MATCH: WidgetStyleID: null,
+MATCH: const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+MATCH: if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+MATCH: const storedWidgetCssLink = cssLinks.widget;
+MATCH: if(storedWidgetCssLink) {
+MATCH: storedWidgetCssLink.disabled = true;
+MATCH: loadCssLink(storedWidgetCssLink);
+MATCH: if (storedWidgetCssLink) {
+MATCH: storedWidgetCssLink.disabled = false;
+MATCH: } else if (link.id && link.id.includes("widgetCSS")) {
+MATCH: cssLinks.widget = link;
+MATCH: .videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+MATCH: link type="text/css" rel="stylesheet" href="../assets/css/widget_entradas.css" id="widgetCSS" /
+MATCH: !-- Support showing sticky element on page only --
+MATCH: body[data-page-alias="entradas-y-abonos-ccmf"] #dm [data-show-on-page-only="entradas-y-abonos-ccmf"] {
+MATCH: style id="pageAdditionalWidgetsCss" type="text/css"
+MATCH: style id="customWidgetStyle" type="text/css"
+MATCH: meta property="og:url" content="https://www.ccmfalla.com/entradas-y-abonos-ccmf"
+MATCH: Entradas y Abonos del Ciclo de Conciertos Manuel de Falla 21.22 GIGLON
+MATCH: meta name="keywords" content="MÚSICA, CLÁSICA, FLAMENCO, ATENEO, MADRID, AGENDA CULTURAL, OCIO EN MADRID, AUDITORIO NACIONAL DE MÚSICA, SUMA FLAMENCA, MANUEL DE FALLA, CICLO DE CONCIERTOS, ENTRADAS, VIOLÍN, PIANO, VOZ, BAILAOR, CANTE, BAILE, DANZA, CASA DE GRANADA, SALA CERO, JOSÉ MANUEL HERNÁNDEZ, FUNDACIÓN MANUEL DE FALLA, ARCHIVO MANUEL DE FALLA, MINISTERIO CULTURA , MÚSICA ESPAÑOLA, TANGO, MÚSICA ARGENTINA, EMBAJADA DE ARGENTINA EN ESPAÑA"/
+MATCH: ENTRADAS Y ABONOS
+MATCH: Entradas para cada uno de los 10 conciertos del Ciclo.
+MATCH: Todos los conciertos tendrán 25 entradas reservadas para los socios del Ateneo, precio de 8€."/
+MATCH: meta name="twitter:title" content="Entradas y Abonos del Ciclo de Conciertos Manuel de Falla 21.22 GIGLON"/
+MATCH: ENTRADAS Y ABONOS
+MATCH: Entradas para cada uno de los 10 conciertos del Ciclo.
+MATCH: Todos los conciertos tendrán 25 entradas reservadas para los socios del Ateneo, precio de 8€."/
+MATCH: ENTRADAS Y ABONOS
+MATCH: Entradas para cada uno de los 10 conciertos del Ciclo.
+MATCH: Todos los conciertos tendrán 25 entradas reservadas para los socios del Ateneo, precio de 8€."/
+MATCH: meta property="og:title" content="Entradas y Abonos del Ciclo de Conciertos Manuel de Falla 21.22 GIGLON"/
+MATCH: .sticky-widgets-container-global { display: block !important; }
+MATCH: .imageWidget { max-width: 100% !important; overflow: hidden !important; }
+MATCH: .imageWidget img { max-width: 100% !important; width: 100% !important; height: auto !important; }
+MATCH: body id="dmRoot" data-page-alias="entradas-y-abonos-ccmf"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+MATCH: div class="dm_wrapper standard-var5 widgetStyle-3 standard"
+MATCH: div class="u_1537060048 imageWidget align-center" data-widget-type="image" id="1537060048" data-element-type="image"
+MATCH: Entradas y Abonos CCMF
+MATCH: div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_entradas-y-abonos-ccmf dm-home-page" themewaschanged="true"
+MATCH: ENTRADAS Y ABONOS
+MATCH: div class="imageWidget align-center u_1175524527" data-element-type="image" data-widget-type="image" id="1175524527"
+MATCH: div class="u_1732893954 graphicWidget" data-widget-type="graphic" id="1732893954" data-element-type="graphic" data-layout="graphic-style-2"
+MATCH: Entradas para cada uno de
+MATCH: div class="u_1434510466 graphicWidget" data-widget-type="graphic" id="1434510466" data-element-type="graphic" data-layout="graphic-style-2"
+MATCH: div class="u_1089889654 graphicWidget" data-widget-type="graphic" id="1089889654" data-element-type="graphic" data-layout="graphic-style-2"
+MATCH: 25 entradas
+MATCH: div class="u_1589044280 graphicWidget" data-widget-type="graphic" id="1589044280" data-element-type="graphic" data-layout="graphic-style-2"
+MATCH: svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1792 1792" id="1041385595" class="svg u_1041385595" data-icon-name="fa-ticket"
+MATCH: Entradas hasta completar aforo.
+MATCH: ENTRADAS
+MATCH: a data-display-type="block" class="u_1688921449 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--musica-de-camara-l-van-beethoven-i" data-element-type="dButtonLinkId" id="1688921449" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: a data-display-type="block" class="u_1806292308 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla-musica-de-camara-l-van-beethoven-ii" data-element-type="dButtonLinkId" id="1806292308" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: a data-display-type="block" class="u_1521210680 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--el-nacimiento-de-la-opera" data-element-type="dButtonLinkId" id="1521210680" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: a data-display-type="block" class="u_1584702358 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-la-escuela-sevillana" data-element-type="dButtonLinkId" id="1584702358" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: a data-display-type="block" class="u_1930033872 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-la-escuela-sevillana-27-nov" data-element-type="dButtonLinkId" id="1930033872" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: a data-display-type="block" class="u_1910344387 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-de-la-cal" data-element-type="dButtonLinkId" id="1910344387" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: a data-display-type="block" class="u_1933541343 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-de-la-cal20211210" data-element-type="dButtonLinkId" id="1933541343" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: a data-display-type="block" class="u_1513205420 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--tango" data-element-type="dButtonLinkId" id="1513205420" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: El importe de las entradas les ser&aacute; devuelto a trav&eacute;s del mismo m&eacute;todo de pago. Para la
+MATCH: devoluci&oacute;n de las entradas el canal oficial de venta de Giglon
+MATCH: a data-display-type="block" class="u_1867054625 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla-musica-de-camara-l-van-beethoven-iii" data-element-type="dButtonLinkId" id="1867054625" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: Al precio de las localidades se les incrementar&aacute; el gasto de gesti&oacute;n por compra online.
+MATCH: Los socios del Ateneo podr&aacute;n obtener su entrada en taquilla, con su precio especial, previa acreditaci&oacute;n.
+MATCH: div class="u_1795532036 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1795532036"
+MATCH: a data-display-type="block" class="u_1097425132 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-ccmfall-01" data-element-type="dButtonLinkId" id="1097425132" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: div class="u_1542449440 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1542449440"
+MATCH: a data-display-type="block" class="u_1675950868 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-ccmfalla-02-flamenco" data-element-type="dButtonLinkId" id="1675950868" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: El importe de las entradas les ser&aacute; devuelto a trav&eacute;s del mismo m&eacute;todo de pago. Para la devoluci&oacute;n de las entradas
+MATCH: el canal oficial de venta de Giglon se pondr&aacute; en contacto con usted.
+MATCH: div class="u_1836475131 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1836475131"
+MATCH: a data-display-type="block" class="u_1548361467 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-ccmfalla-03-mixto" data-element-type="dButtonLinkId" id="1548361467" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: div class="u_1422766087 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1422766087"
+MATCH: a data-display-type="block" class="u_1413142694 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-04-completo" data-element-type="dButtonLinkId" id="1413142694" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"
+MATCH: comprar
+MATCH: div class="u_1702853004 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1702853004"
+MATCH: a href="https://www.giglon.com/" id="1075644935" class="" target="_blank" file="false"
+MATCH: div class="dmDividerWrapper clearfix u_1276141473" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1276141473"
+MATCH: Cont&aacute;ctenos para cualquier aclaraci&oacute;n con respecto a la compra de localidades.
+MATCH: h3 class="dmform-title dmwidget-title" id="1876451966" hide="true"
+MATCH: div class="dmformsubmit dmWidget R" id="1630523037"
+MATCH: input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1341647252"/
+MATCH: input name="dmformsubject" type="hidden" value="RESERVA DE ENTRADAS" id="1005447103" class=""/
+MATCH: div class="sticky-widgets-container-global" id="1543459690"
+MATCH: a data-display-type="block" class="u_1588278059 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient sticky-mobile-position-bottom-right sticky-desktop-position-bottom-left" file="false" href="../pages/entradas.html" data-element-type="dButtonLinkId" id="1588278059" data-buttonstyle="THICK_BORDER"
+MATCH: ENTRADAS
+MATCH: ENTRADAS
+MATCH: a href="../pages/entradas.html" runtime_url="/entradas-y-abonos-ccmf" style="color: rgb(255, 255, 255);"
+MATCH: a href="../pages/entradas.html" runtime_url="/entradas-y-abonos-ccmf" style="color: rgb(255, 255, 255);"
+MATCH: entradas&gt;&gt;
+MATCH: window.customWidgetsFunctions = {};
+MATCH: window.customWidgetsStrings = {};
+MATCH: rtCommonProps['feature.flag.lazy.widgets'] = true;
+MATCH: rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+MATCH: rtFlags["scripts.widgetCount.enabled"] =true;
+MATCH: rtFlags["runtime.ssr.runtime.filter-sort.newFilterSortWidgetWithOptions.enabled"] =true;

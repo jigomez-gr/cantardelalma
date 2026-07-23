@@ -1,0 +1,228 @@
+--- MATCH AT LINE 3176 ---
+3171:    <meta property="og:type" content="website">
+3172:    <meta property="og:url" content="https://www.ccmfalla.com/entradas-y-abonos-ccmf">
+3173:    
+3174:    <meta property="og:image" content="../assets/img/SERIE_5_new_rojo_y_negro_2-1920w.jpg"/>
+3175:    <title>
+3176:--> Entradas y Abonos del Ciclo de Conciertos Manuel de Falla 21.22 GIGLON
+3177:    </title>
+3178:    <meta name="keywords" content="MÚSICA, CLÁSICA, FLAMENCO, ATENEO, MADRID, AGENDA CULTURAL, OCIO EN MADRID, AUDITORIO NACIONAL DE MÚSICA, SUMA FLAMENCA, MANUEL DE FALLA, CICLO DE CONCIERTOS, ENTRADAS, VIOLÍN, PIANO, VOZ, BAILAOR, CANTE, BAILE, DANZA, CASA DE GRANADA, SALA CERO, JOSÉ MANUEL HERNÁNDEZ, FUNDACIÓN MANUEL DE FALLA, ARCHIVO MANUEL DE FALLA, MINISTERIO CULTURA , MÚSICA ESPAÑOLA, TANGO, MÚSICA ARGENTINA, EMBAJADA DE ARGENTINA EN ESPAÑA"/>
+3179:    <meta name="description" content="CICLO de CONCIERTOS MANUEL de FALLA
+3180:    ENTRADAS Y ABONOS
+3181:    LOCALIDADES SUELTAS
+--- MATCH AT LINE 3190 ---
+3185:    Reserve el suyo y obtenga un mejor precio.
+3186:    SOCIOS DEL ATENEO
+3187:    Todos los conciertos tendrán 25 entradas reservadas para los socios del Ateneo, precio de 8€."/>
+3188:    
+3189:    <meta name="twitter:card" content="summary"/>
+3190:--> <meta name="twitter:title" content="Entradas y Abonos del Ciclo de Conciertos Manuel de Falla 21.22 GIGLON"/>
+3191:    <meta name="twitter:description" content="CICLO de CONCIERTOS MANUEL de FALLA
+3192:    ENTRADAS Y ABONOS
+3193:    LOCALIDADES SUELTAS
+3194:    Entradas para cada uno de los 10 conciertos del Ciclo.
+3195:    ABONOS
+--- MATCH AT LINE 3209 ---
+3204:    ABONOS
+3205:    Existen 4 tipos de abonos.
+3206:    Reserve el suyo y obtenga un mejor precio.
+3207:    SOCIOS DEL ATENEO
+3208:    Todos los conciertos tendrán 25 entradas reservadas para los socios del Ateneo, precio de 8€."/>
+3209:--> <meta property="og:title" content="Entradas y Abonos del Ciclo de Conciertos Manuel de Falla 21.22 GIGLON"/>
+3210:    
+3211:    
+3212:    
+3213:    
+3214:    <!-- SYS- MUFORDFfRVVfUFJPRA== -->
+--- MATCH AT LINE 3451 ---
+3446:    </svg>
+3447:    </a>
+3448:    </div>
+3449:    </div>
+3450:    <div class="u_1295884817 dmRespCol small-12 large-5 medium-5" id="1295884817"> <div class="u_1306157306 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1306157306" style="transition: opacity 1s ease-in-out 0s;"><p class="m-size-14 size-18"><span class="m-font-size-14 font-size-18" style="font-weight: 700; display: initial;">L. van Beethoven</span></p><p class="m-size-13"><span class="m-font-size-13" style="font-weight: 700; display: initial; color: rgb(146, 33, 33);">Desde Bonn hasta los estudios con Haydn en Viena (I)</span></p><p class="text-align-left m-size-13 size-16"><span class="font-size-16 m-font-size-13" style="font-weight: 700; display: initial; color: rgb(102, 101, 96);">17 &euro;</span></p></div>
+3451:--> <a data-display-type="block" class="u_1688921449 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--musica-de-camara-l-van-beethoven-i" data-element-type="dButtonLinkId" id="1688921449" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1911085964"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1952017853"></span>
+3452:    </span>
+3453:    <span class="text" id="1197872850">comprar</span>
+3454:    </a>
+3455:    </div>
+3456:    </div>
+--- MATCH AT LINE 3469 ---
+3464:    </svg>
+3465:    </a>
+3466:    </div>
+3467:    </div>
+3468:    <div class="u_1962542051 dmRespCol small-12 large-5 medium-5" id="1962542051"> <div class="u_1831845338 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1831845338" style="transition: opacity 1s ease-in-out 0s;"><p class="size-18 m-size-14"><span class="font-size-18 m-font-size-14" style="font-weight: 700; display: initial;">L. van Beethoven</span></p><p class="m-size-13"><span class="m-font-size-13" style="color: rgb(146, 33, 33); font-weight: 700; display: initial;">Desde Bonn hasta los estudios con Haydn en Viena (II)</span></p><p class="text-align-left m-size-13 size-16"><span class="m-font-size-13 font-size-16" style="font-weight: 700; display: initial;">17 &euro;</span></p></div>
+3469:--> <a data-display-type="block" class="u_1806292308 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla-musica-de-camara-l-van-beethoven-ii" data-element-type="dButtonLinkId" id="1806292308" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1558183755"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1432092809"></span>
+3470:    </span>
+3471:    <span class="text" id="1587345384">comprar</span>
+3472:    </a>
+3473:    </div>
+3474:    </div>
+--- MATCH AT LINE 3487 ---
+3482:    </svg>
+3483:    </a>
+3484:    </div>
+3485:    </div>
+3486:    <div class="u_1422609241 dmRespCol small-12 large-5 medium-5" id="1422609241"> <div class="u_1969810532 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1969810532" style="transition: opacity 1s ease-in-out 0s;"><p class="size-18 m-size-14"><span class="font-size-18 m-font-size-14" style="display: initial; font-weight: 700;">Lamenti</span></p><p class="m-size-13"><span class="m-font-size-13" style="color: rgb(146, 33, 33); display: initial; font-weight: 700;">El nacimiento de la &Oacute;pera</span></p><p class="m-size-13 size-16"><span class="font-size-16 m-font-size-13" style="display: initial; font-weight: 700;">17 &euro;</span></p></div>
+3487:--> <a data-display-type="block" class="u_1521210680 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--el-nacimiento-de-la-opera" data-element-type="dButtonLinkId" id="1521210680" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1581115444"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1600542107"></span>
+3488:    </span>
+3489:    <span class="text" id="1451688510">comprar</span>
+3490:    </a>
+3491:    </div>
+3492:    </div>
+--- MATCH AT LINE 3504 ---
+3499:    </svg>
+3500:    </a>
+3501:    </div>
+3502:    </div>
+3503:    <div class="u_1204751596 dmRespCol small-12 large-5 medium-5" id="1204751596"> <div class="u_1938935076 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1938935076" style="transition: opacity 1s ease-in-out 0s;"><p class="size-18 m-size-14"><span class="font-size-18 m-font-size-14" style="display: initial; font-weight: bold;">Flamenco</span></p><p class="m-size-13"><span class="m-font-size-13" style="color: rgb(146, 33, 33); display: initial; font-weight: 700;">La Escuela Sevillana</span></p><p class="m-size-13 size-16"><span class="m-font-size-13 font-size-16" style="font-weight: 700; display: initial;">20 &euro;</span></p></div>
+3504:--> <a data-display-type="block" class="u_1584702358 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-la-escuela-sevillana" data-element-type="dButtonLinkId" id="1584702358" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1343745213"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1276106505"></span>
+3505:    </span>
+3506:    <span class="text" id="1463474696">comprar</span>
+3507:    </a>
+3508:    </div>
+3509:    </div>
+--- MATCH AT LINE 3522 ---
+3517:    </svg>
+3518:    </a>
+3519:    </div>
+3520:    </div>
+3521:    <div class="u_1198164558 dmRespCol small-12 large-5 medium-5" id="1198164558"> <div class="u_1013315720 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1013315720" style="transition: opacity 1s ease-in-out 0s;"><p class="m-size-14 size-18"><span class="m-font-size-14 font-size-18" style="display: initial; font-weight: bold; color: rgb(102, 101, 96);">Flamenco</span></p><p class="m-size-13"><span class="m-font-size-13" style="color: rgb(146, 33, 33); font-weight: 700; display: initial;">La Escuela Sevillana</span></p><p class="m-size-13 size-16"><span class="font-size-16 m-font-size-13" style="display: initial; font-weight: 700;">20 &euro;</span></p></div>
+3522:--> <a data-display-type="block" class="u_1930033872 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-la-escuela-sevillana-27-nov" data-element-type="dButtonLinkId" id="1930033872" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1248948264"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1410621493"></span>
+3523:    </span>
+3524:    <span class="text" id="1716458717">comprar</span>
+3525:    </a>
+3526:    </div>
+3527:    </div>
+--- MATCH AT LINE 3539 ---
+3534:    </svg>
+3535:    </a>
+3536:    </div>
+3537:    </div>
+3538:    <div class="u_1523427190 dmRespCol small-12 large-5 medium-5" id="1523427190"> <div class="u_1364346024 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1364346024" style="transition: opacity 1s ease-in-out 0s;"><p class="size-18 m-size-14"><span class="font-size-18 m-font-size-14" style="font-weight: bold; display: initial; color: rgb(102, 101, 96);">Flamenco</span></p><p class="m-size-11 size-14"><span class="font-size-14 m-font-size-11" style="font-weight: bold; display: initial; color: rgb(146, 33, 33);">&quot;De la Cal&quot;</span></p><p class="m-size-13 size-16"><span class="m-font-size-13 font-size-16" style="font-weight: 700; display: initial;">20 &euro;</span></p></div>
+3539:--> <a data-display-type="block" class="u_1910344387 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-de-la-cal" data-element-type="dButtonLinkId" id="1910344387" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1098175435"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1116199269"></span>
+3540:    </span>
+3541:    <span class="text" id="1148357836">comprar</span>
+3542:    </a>
+3543:    </div>
+3544:    </div>
+--- MATCH AT LINE 3558 ---
+3553:    </a>
+3554:    </div>
+3555:    </div>
+3556:    <div class="u_1552215846 dmRespCol small-12 large-5 medium-5" id="1552215846"> <div class="u_1556255046 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1556255046" style="transition: opacity 1s ease-in-out 0s;"><p class="size-18 m-size-14"><span class="font-size-18 m-font-size-14" style="font-weight: 700; display: initial;">Flamenco</span></p><p><span class="" style="color: rgb(146, 33, 33); font-weight: 700; display: initial;"><span style="color: rgb(146, 33, 33); font-weight: 700; display: initial;">60 a&ntilde;os del Festival de Cante Jondo</span>
+3557:    </span></p><p><span style="color: rgb(146, 33, 33); font-weight: 700; display: initial;">&ldquo;Antonio Mairena&rdquo;</span></p><p class="m-size-13 size-16"><span class="font-size-16 m-font-size-13" style="display: initial; font-weight: 700;">18 &euro;</span></p></div>
+3558:--> <a data-display-type="block" class="u_1933541343 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--flamenco-de-la-cal20211210" data-element-type="dButtonLinkId" id="1933541343" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1566743022"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1394765906"></span>
+3559:    </span>
+3560:    <span class="text" id="1985832417">comprar</span>
+3561:    </a>
+3562:    </div>
+3563:    </div>
+--- MATCH AT LINE 3577 ---
+3572:    </a>
+3573:    </div>
+3574:    </div>
+3575:    <div class="u_1017196362 dmRespCol small-12 large-5 medium-5" id="1017196362"> <div class="u_1996185493 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1996185493" style="transition: opacity 1s ease-in-out 0s;"><p class="size-18 m-size-14"><span class="font-size-18 m-font-size-14" style="font-weight:bold;display:initial;font-family:Montserrat, 'Montserrat Fallback';">M&uacute;sica popular de tradici&oacute;n oral</span></p> <h4 class="m-size-11 size-14" style="line-height: 27px;"><span class="font-size-14 m-font-size-11" style="color:rgb(146, 33, 33);font-weight:bold;display:initial;font-family:Montserrat, 'Montserrat Fallback';">Tango y M&uacute;sica Folkl&oacute;rica Argentina</span></h4>
+3576:    <p class="m-size-13 size-16" style="line-height: 27px;"><span class="m-font-size-13 font-size-16" style="font-weight: 700; display: initial;">20 &euro;</span></p></div>
+3577:--> <a data-display-type="block" class="u_1513205420 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla--tango" data-element-type="dButtonLinkId" id="1513205420" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1682205905"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1740845504"></span>
+3578:    </span>
+3579:    <span class="text" id="1690697121">comprar</span>
+3580:    </a>
+3581:    </div>
+3582:    </div>
+--- MATCH AT LINE 3597 ---
+3592:    </a>
+3593:    </div>
+3594:    </div>
+3595:    <div class="u_1363956677 dmRespCol small-12 large-5 medium-5" id="1363956677"> <div class="u_1836412892 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1836412892" style="transition: opacity 1s ease-in-out 0s;"><p class="m-size-14 size-18"><span class="font-size-18 m-font-size-14" style="font-weight: bold; display: initial; color: rgb(102, 101, 96);">Flamenco</span></p><p class="m-size-11 size-14"><span class="font-size-14 m-font-size-11" style="font-weight: bold; display: initial; color: rgb(146, 33, 33);">&quot;De la Cal&quot;</span></p><p class="m-size-13 size-16"><span class="m-font-size-13 font-size-16" style="font-weight: 700; display: initial;">20 &euro;</span></p><p><span class="" style="display: initial; font-style: inherit; font-weight: inherit;"><span style="display: initial; font-style: inherit; font-weight: inherit;">Lamentamos comunicar la</span>
+3596:    </span><span style="display: initial; font-style: inherit; font-weight: bold;">cancelaci&oacute;n de este concierto</span><span class="" style="display: initial; font-style: inherit; font-weight: inherit;"> <span style="display: initial; font-style: inherit; font-weight: inherit;">por motivos de salud de Sara Calero.</span></span></p><p><span style="font-style: inherit; font-weight: inherit; display: initial;">Rogamos disculpen las molestias que esta situaci&oacute;n les puede causar.</span></p><p><span class="" style="font-style: inherit; font-weight: inherit; display: initial;"><span style="font-style: inherit; font-weight: inherit; display: initial;">El importe de las entradas les ser&aacute; devuelto a trav&eacute;s del mismo m&eacute;todo de pago. Para la</span>
+3597:--> </span><span style="font-style: inherit; font-weight: bold; display: initial;">devoluci&oacute;n de las entradas el canal oficial de venta de Giglon</span><span class="" style="font-style: inherit; font-weight: inherit; display: initial;"> <span style="font-style: inherit; font-weight: inherit; display: initial;">se pondr&aacute; en contacto con usted.</span></span></p><p><br/></p><p><span style="font-style: inherit; font-weight: inherit; display: initial;">Disculpen las molestias,</span></p><p><span style="font-style: inherit; font-weight: inherit; display: initial;">CCMFALLA</span></p><p><span style="display: initial;"><br/></span></p></div>
+3598:    </div>
+3599:    </div>
+3600:    </div>
+3601:    <div class="u_1514822284 dmRespRow fullBleedChanged fullBleedMode" id="1514822284" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJ2aWV3cG9ydCIsImFuaW1hdGlvbiI6ImZhZGVJblVwIiwiaW50ZW5zaXR5IjowLjQsInJldmVyc2UiOmZhbHNlLCJ2aWV3cG9ydFRocmVzaG9sZHMiOnsidG9wIjoiNjMlIiwiYm90dG9tIjoiMjQlIn19LCJtb2JpbGUiOnt9fQ=="> <div class="dmRespColsWrapper" id="1201893330"> <div class="u_1834808020 dmRespCol small-12 large-6 medium-6" id="1834808020"> <div class="u_1640066685 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1640066685" style="" data-styletopreserve="{"background-image":""}"> <h3 class="size-24 m-size-19"><span class="font-size-24 m-font-size-19" style="display: initial; color: rgb(0, 0, 0);">10.</span><span class="font-size-24 m-font-size-19" style="display: initial; color: rgb(0, 0, 0); font-style: italic;"> <span class="font-size-24 m-font-size-19" style="display: initial; color: rgb(0, 0, 0); font-style: italic;">Concierto</span>
+3602:    </span><span class="font-size-24 m-font-size-19" style="display: initial; color: rgb(0, 0, 0); font-style: italic; font-weight: 700;">23 Dic. 21, 20:00 h.</span></h3>
+--- MATCH AT LINE 3613 ---
+3608:    </a>
+3609:    </div>
+3610:    </div>
+3611:    <div class="u_1191112310 dmRespCol small-12 large-5 medium-5" id="1191112310"> <div class="u_1245314598 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1245314598" style="transition: opacity 1s ease-in-out 0s;"><p class="m-size-14 size-18"><span class="m-font-size-14 font-size-18" style="display: initial; font-weight: 700;">L. van Beethoven</span></p><p class="m-size-13"><span class="m-font-size-13" style="color: rgb(146, 33, 33); display: initial; font-weight: 700;"><span class="m-font-size-13" style="color: rgb(146, 33, 33); display: initial; font-weight: 700;">La edad tard&iacute;a del fortepiano:</span>
+3612:    </span></p><p class="m-size-13"><span class="m-font-size-13" style="color: rgb(146, 33, 33); display: initial; font-weight: 700;">las &uacute;ltimas sonatas para piano</span></p><p class="m-size-13 size-16"><span class="m-font-size-13 font-size-16" style="font-weight: 700; display: initial;">17 &euro;</span><span style="display: initial;"><br/></span></p></div>
+3613:--> <a data-display-type="block" class="u_1867054625 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/ciclo-de-conciertos-manuel-de-falla-musica-de-camara-l-van-beethoven-iii" data-element-type="dButtonLinkId" id="1867054625" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1676272653"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1575006318"></span>
+3614:    </span>
+3615:    <span class="text" id="1319633456">comprar</span>
+3616:    </a>
+3617:    </div>
+3618:    </div>
+--- MATCH AT LINE 3639 ---
+3634:    <div class="u_1612333462 dmNewParagraph" id="1612333462" style="transition:opacity 1s ease-in-out;line-height:initial;" data-element-type="paragraph" data-version="5"> <h3 class="text-align-center m-size-36 size-30"><span class="font-size-48 m-font-size-50" style="font-weight: 700; display: initial;">01</span><span single-space="true" class="font-size-48 m-font-size-36" style="font-weight: 700; display: initial; color: rgb(46, 46, 46);"> <span class="font-size-48 m-font-size-36" style="font-weight: 700; display: initial; color: rgb(46, 46, 46);"></span>
+3635:    </span><span single-space="true" class="m-font-size-36 font-size-70" style="font-weight: 700; display: initial; color: rgb(46, 46, 46);"> <span class="m-font-size-36 font-size-70" style="font-weight: 700; display: initial; color: rgb(46, 46, 46);"></span>
+3636:    </span><span class="m-font-size-36 font-size-30" style="font-weight: 700; display: initial; color: rgb(155, 17, 26);">Beethoven</span></h3>
+3637:    </div> <div class="u_1957846068 dmNewParagraph" id="1957846068" style="display:block;line-height:initial;" data-version="5"><p class="text-align-center m-size-13 size-16" style="line-height: initial;"><span class="font-size-16 m-font-size-13" style="display: initial; font-weight: bold; color: rgb(0, 0, 0);"><span class="font-size-16 m-font-size-13" style="display: initial; font-weight: bold; color: rgb(0, 0, 0);">3 conciertos, 45&euro;</span>
+3638:    </span><span style="display: initial;"><br/></span></p><p class="text-align-center" style="line-height: initial;"><span style="display: initial;"><br/></span></p><p class="text-align-center" style="line-height: initial;"><span style="display: initial; font-weight: bold; color: rgb(102, 101, 96);">12, 13 Nov y 23 Dic, 2021</span></p></div> <div class="u_1795532036 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1795532036"><img src="../assets/img/ABONO_CCMFALLA_01.BEETHOVEN-1920w.png" alt="" id="1093525832" class="" data-dm-image-path="" onerror="handleImageLoadError(this)"/></div>
+3639:--> <a data-display-type="block" class="u_1097425132 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-ccmfall-01" data-element-type="dButtonLinkId" id="1097425132" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1454586507"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1729155118"></span>
+3640:    </span>
+3641:    <span class="text" id="1197624324">comprar</span>
+3642:    </a>
+3643:    </div>
+3644:    <div class="dmRespCol small-12 u_1235145552 large-3 medium-3" id="1235145552"> <span id="1405746805"></span>
+--- MATCH AT LINE 3649 ---
+3644:    <div class="dmRespCol small-12 u_1235145552 large-3 medium-3" id="1235145552"> <span id="1405746805"></span>
+3645:    <div class="u_1730497473 dmNewParagraph" id="1730497473" style="transition:opacity 1s ease-in-out;line-height:initial;" data-element-type="paragraph" data-version="5"> <h3 class="text-align-center m-size-36 size-30"><span class="m-font-size-50 font-size-48" style="display: initial; font-weight: 700;">02</span><span single-space="true" class="font-size-48 m-font-size-36" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"> <span class="font-size-48 m-font-size-36" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"></span>
+3646:    </span><span single-space="true" class="m-font-size-36 font-size-70" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"> <span class="m-font-size-36 font-size-70" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"></span>
+3647:    </span><span class="m-font-size-36 font-size-30" style="display: initial; font-weight: 700; color: rgb(155, 17, 26);">Flamenco</span></h3>
+3648:    </div> <div class="u_1042913696 dmNewParagraph" id="1042913696" style="display: block;" data-version="5"><p class="text-align-center m-size-13 size-16" style="line-height: initial;"><span class="font-size-16 m-font-size-13" style="display: initial; font-weight: bold; color: rgb(0, 0, 0);">3 conciertos, 52&euro; &nbsp;</span></p><p class="text-align-center" style="line-height: initial;"><span class="font-size-16 m-font-size-13" style="display: initial;"><br/></span></p><p class="text-align-center m-size-11 size-14" style="line-height: initial;"><span class="font-size-14 m-font-size-11" style="display: initial; font-weight: bold;">27 Nov, 10 Dic y 12 Dic, 2021</span><span style="display: initial;"><br/></span></p></div> <div class="u_1542449440 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1542449440"><img src="../assets/img/ABONO_CCMFALLA_02._FLAMENCO-1920w.png" alt="" id="1739664369" class="" data-dm-image-path="" onerror="handleImageLoadError(this)"/></div>
+3649:--> <a data-display-type="block" class="u_1675950868 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-ccmfalla-02-flamenco" data-element-type="dButtonLinkId" id="1675950868" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1221593719"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1434763635"></span>
+3650:    </span>
+3651:    <span class="text" id="1286246086">comprar</span>
+3652:    </a>
+3653:    <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1558900429" style="transition: opacity 1s ease-in-out 0s;"><p class="text-align-justify"><span class="" style="font-style: inherit; font-weight: inherit; display: unset;"><span style="font-style: inherit; font-weight: inherit; display: unset;">El concierto del</span>
+3654:    </span><span class="" style="font-style: inherit; font-weight: inherit; display: unset; text-decoration: underline;"><span style="font-style: inherit; font-weight: inherit; display: unset; text-decoration: underline;">12 de diciembre</span>
+--- MATCH AT LINE 3657 ---
+3652:    </a>
+3653:    <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1558900429" style="transition: opacity 1s ease-in-out 0s;"><p class="text-align-justify"><span class="" style="font-style: inherit; font-weight: inherit; display: unset;"><span style="font-style: inherit; font-weight: inherit; display: unset;">El concierto del</span>
+3654:    </span><span class="" style="font-style: inherit; font-weight: inherit; display: unset; text-decoration: underline;"><span style="font-style: inherit; font-weight: inherit; display: unset; text-decoration: underline;">12 de diciembre</span>
+3655:    </span><span class="" style="font-style: inherit; font-weight: inherit; display: unset;"><span style="font-style: inherit; font-weight: inherit; display: unset;">queda</span>
+3656:    </span><span style="font-style: inherit; font-weight: bold; display: unset;">cancelado</span><span class="" style="font-style: inherit; font-weight: inherit; display: unset;"> <span style="font-style: inherit; font-weight: inherit; display: unset;">por motivos de salud de Sara Calero.</span></span></p><p class="text-align-justify"><span style="font-style: inherit; font-weight: inherit; display: unset;">Rogamos disculpen las molestias que esta situaci&oacute;n les puede causar.</span></p><p class="text-align-justify"><span class="" style="font-style: inherit; font-weight: inherit; display: unset;"><span style="font-style: inherit; font-weight: inherit; display: unset;">El importe de las entradas les ser&aacute; devuelto a trav&eacute;s del mismo m&eacute;todo de pago. Para la devoluci&oacute;n de las entradas</span>
+3657:--> </span><span style="font-style: inherit; font-weight: bold; display: unset;">el canal oficial de venta de Giglon se pondr&aacute; en contacto con usted.</span></p><p class="text-align-justify"><span style="font-style: inherit; font-weight: normal; display: unset;">*Su devoluci&oacute;n ser&aacute; de 18 &euro;+gastos de gesti&oacute;n.</span></p><p><span style="display: initial;">Disculpen las molestias</span></p><p><span style="display: initial;">CCMFALLA</span></p></div>
+3658:    </div>
+3659:    <div class="dmRespCol small-12 u_1024721466 large-3 medium-3" id="1024721466"> <span id="1441923205"></span>
+3660:    <div class="u_1621109824 dmNewParagraph" id="1621109824" style="transition:opacity 1s ease-in-out;line-height:initial;" data-element-type="paragraph" data-version="5"> <h3 class="text-align-center m-size-36 size-30"><span class="font-size-48 m-font-size-50" style="font-weight: 700; display: initial;">03</span><span single-space="true" class="font-size-48 m-font-size-36" style="font-weight: 700; display: initial; color: rgb(46, 46, 46);"> <span class="font-size-48 m-font-size-36" style="font-weight: 700; display: initial; color: rgb(46, 46, 46);"></span>
+3661:    </span><span single-space="true" class="m-font-size-36 font-size-70" style="font-weight: 700; display: initial; color: rgb(155, 17, 26);"> <span class="m-font-size-36 font-size-70" style="font-weight: 700; display: initial; color: rgb(155, 17, 26);"></span>
+3662:    </span><span class="m-font-size-36 font-size-30" style="font-weight: 700; display: initial; color: rgb(155, 17, 26);">Mixto</span></h3>
+--- MATCH AT LINE 3666 ---
+3661:    </span><span single-space="true" class="m-font-size-36 font-size-70" style="font-weight: 700; display: initial; color: rgb(155, 17, 26);"> <span class="m-font-size-36 font-size-70" style="font-weight: 700; display: initial; color: rgb(155, 17, 26);"></span>
+3662:    </span><span class="m-font-size-36 font-size-30" style="font-weight: 700; display: initial; color: rgb(155, 17, 26);">Mixto</span></h3>
+3663:    </div> <div class="u_1895695727 dmNewParagraph" id="1895695727" style="display: block;" data-version="5"><p class="m-size-13 text-align-center size-16" style="line-height: initial;"><span class="m-font-size-13 font-size-16" style="color: rgb(0, 0, 0); font-weight: 700; display: initial;">3 conciertos, 51&euro; &nbsp;</span></p><p class="text-align-center" style="line-height: initial;"><span style="display: initial;"><br/></span></p><p class="text-align-center" style="line-height: initial;"><span class="" style="color: rgb(102, 101, 96); font-weight: bold; display: initial;"><span style="color: rgb(102, 101, 96); font-weight: bold; display: initial;">14 Nov,</span>
+3664:    </span><span class="" style="color: rgb(102, 101, 96); font-weight: 700; display: initial;"><span style="color: rgb(102, 101, 96); font-weight: 700; display: initial;">28 Nov</span>
+3665:    </span><span style="color: rgb(102, 101, 96); font-weight: bold; display: initial;">y 11 Dic, 2021</span></p></div> <div class="u_1836475131 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1836475131"><img src="../assets/img/ABONO_CCMFALLA_03._MIXTO-1920w.png" alt="" id="1563004205" class="" data-dm-image-path="" onerror="handleImageLoadError(this)"/></div>
+3666:--> <a data-display-type="block" class="u_1548361467 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-ccmfalla-03-mixto" data-element-type="dButtonLinkId" id="1548361467" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1008104116"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1244465719"></span>
+3667:    </span>
+3668:    <span class="text" id="1782776166">comprar</span>
+3669:    </a>
+3670:    </div>
+3671:    <div class="dmRespCol large-3 medium-3 small-12 u_1903713711" id="1903713711"> <div class="u_1443100525 dmNewParagraph" id="1443100525" style="transition:opacity 1s ease-in-out;line-height:initial;" data-element-type="paragraph" data-version="5"> <h3 class="m-size-36 text-align-center size-30"><span class="m-font-size-50 font-size-48" style="display: initial; font-weight: 700;">04</span><span single-space="true" class="font-size-48 m-font-size-36" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"> <span class="font-size-48 m-font-size-36" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"></span>
+--- MATCH AT LINE 3677 ---
+3672:    </span><span single-space="true" class="m-font-size-36 font-size-70" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"> <span class="m-font-size-36 font-size-70" style="display: initial; font-weight: 700; color: rgb(46, 46, 46);"></span>
+3673:    </span><span class="m-font-size-36 font-size-30" style="display: initial; font-weight: 700; color: rgb(155, 17, 26);">Completo</span></h3>
+3674:    </div> <div class="u_1338455808 dmNewParagraph" id="1338455808" style="display: block; transition: none 0s ease 0s; text-align: left;" data-version="5"><p class="text-align-center m-size-13 size-16" style="line-height: initial;"><span class="font-size-16 m-font-size-13" style="color: rgb(0, 0, 0); font-weight: bold; display: initial;">8 conciertos, 120</span><span class="font-size-16 m-font-size-13" style="color: rgb(0, 0, 0); font-weight: 700; display: initial;"><span class="font-size-16 m-font-size-13" style="color: rgb(0, 0, 0); font-weight: 700; display: initial;">&euro;</span>
+3675:    </span><span single-space="true" class="font-size-16 m-font-size-13" style="color: rgb(0, 0, 0); font-weight: bold; display: initial;"> <span class="font-size-16 m-font-size-13" style="color: rgb(0, 0, 0); font-weight: bold; display: initial;"></span>
+3676:    </span></p><p class="text-align-center" style="line-height: initial;"><span class="m-font-size-11 font-size-14" style="display: initial;"><br/></span></p><p class="m-size-11 text-align-center size-14" style="line-height: initial;"><span class="m-font-size-11 font-size-14" style="font-weight: bold; display: initial;">Del 12 Nov al 23 Dic, 2021</span></p></div> <div class="u_1422766087 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1422766087"><img src="../assets/img/ABONO_CCMFALLA_04._COMPLETO-1920w.png" alt="" id="1280684727" class="" data-dm-image-path="" onerror="handleImageLoadError(this)"/></div>
+3677:--> <a data-display-type="block" class="u_1413142694 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://www.giglon.com/evento/abono-04-completo" data-element-type="dButtonLinkId" id="1413142694" target="_blank" data-buttonstyle="ANIMATED" icon-name="icon-credit-card"> <span class="iconBg" id="1351575436"> <span class="icon hasFontIconstar hasFontIcon icon-credit-card" id="1534479204"></span>
+3678:    </span>
+3679:    <span class="text" id="1022398742">comprar</span>
+3680:    </a>
+3681:    </div>
+3682:    </div>
+--- MATCH AT LINE 3689 ---
+3684:    <div class="dmRespRow" id="1529835449"> <div class="dmRespColsWrapper" id="1995455020"> <div class="dmRespCol large-12 medium-12 small-12 u_1974721773" id="1974721773"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1291334189" style="transition: opacity 1s ease-in-out 0s;"> <ul class="defaultList"><li class="text-align-center"><span style="display: unset; font-weight: bold;">No se contempla ning&uacute;n descuento adicional.</span></li></ul>
+3685:    </div>
+3686:    </div>
+3687:    </div>
+3688:    </div>
+3689:--> <div class="dmRespRow" id="1492241774"> <div class="dmRespColsWrapper" id="1990174773"> <div class="dmRespCol large-12 medium-12 small-12" id="1532795672"> <div class="u_1702853004 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1702853004"> <a href="https://www.giglon.com/" id="1075644935" class="" target="_blank" file="false"><img src="../assets/img/Banner_horizontal_verde-1920w.jpg" alt="" id="1653306353" class="" data-dm-image-path="" onerror="handleImageLoadError(this)"/></a>
+3690:    </div>
+3691:    </div>
+3692:    </div>
+3693:    </div>
+3694:    <div class="dmRespRow" id="1287173996"> <div class="dmRespColsWrapper" id="1058869302"> <div class="dmRespCol large-12 medium-12 small-12" id="1873979759"> <div class="dmDividerWrapper clearfix u_1276141473" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1276141473"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1782515377"/></div>

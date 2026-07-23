@@ -1,0 +1,28 @@
+Line 40: sevilla in: SEVILLA, <span className="text-stone-800 block text-2xl sm:text-4xl md:text-5xl mt-1">Ciudad de la Música</span>
+Line 59: reserva in: Copyright © Ciclo de Conciertos Manuel de Falla. Todos los derechos reservados.
+Line 67: reserva in: href="#reserva"
+Line 70: reserva in: Reservar plaza
+Line 73: sevilla in: href="/docs/programa-sevilla-ciudad-musica.pdf"
+Line 74: sevilla in: download="programa-sevilla-ciudad-musica.pdf"
+Line 104: eurostars in: <span className="block text-xl font-serif font-bold text-[#800020] mb-2 leading-none">Eurostars</span>
+Line 139: sevilla in: Sevilla, Ciudad de la Música
+Line 142: sevilla in: Sevilla, Ciudad de la Música
+Line 147: sevilla in: Si hay una ciudad relacionada con la música, ésa es Sevilla: La polifonía renacentista convirtió a Sevilla en un importante centro musical del siglo XVI. Son decenas las óperas ambientadas en esta ciudad. Su barrio de Triana está considerado una de las cunas del flamenco, y la Alameda de Hércules el punto neurálgico de este arte en las primeras décadas del siglo XX.
+Line 150: sevilla in: Y fue aquí, en Sevilla, donde Manuel de Falla (hijo adoptivo de la ciudad) fundó la Orquesta Bética de Cámara en 1923, con la que estrenó, en versión de concierto, su magistral El Retablo de Maese Pedro en el ya desaparecido Teatro San Fernando. Todo esto y mucho más, hizo que Sevilla fuera nombrada Ciudad de la Música por la UNESCO (2006).
+Line 157: sevilla in: En ningún sitio suenan mejor los aplausos que en Sevilla, una de las ciudades más musicales que conozco.
+Line 176: sevilla in: El Enlace Imperial y la Sevilla del Siglo XVI
+Line 180: sevilla in: En marzo de 1526, Sevilla fue escenario de uno de los acontecimientos políticos y dinásticos más significativos de la Edad Moderna: la boda del Emperador Carlos V con su prima Isabel de Portugal.
+Line 183: sevilla in: Celebrado en el Salón de Embajadores de los Reales Alcázares de Sevilla, este enlace no solo estrechaba lazos de sangre con dispensa papal, sino que conllevaba un importante trasfondo político y económico.
+Line 186: itinerario in: Nuestro itinerario recorre esa Sevilla del siglo XVI, hilando la arquitectura mudéjar con recitales que reviven los cancioneros renacentistas.
+Line 195: sevilla in: alt="Salón de Embajadores en el Real Alcázar de Sevilla"
+Line 211: sevilla in: Patio de las Doncellas, Reales Alcázares de Sevilla
+Line 258: sevilla in: <h4 className="font-serif text-lg font-bold text-[#800020] mb-2">La Sevilla del XVI</h4>
+Line 308: sevilla in: Galería Editorial de Sevilla
+Line 318: sevilla in: <h4 className="font-serif text-base sm:text-lg font-bold text-white tracking-wide leading-snug">Origen y Llegada a Sevilla</h4>
+Line 319: itinerario in: <p className="text-[10px] sm:text-xs italic text-stone-200 mt-1 font-serif">Ver itinerario del trayecto &rarr;</p>
+Line 405: reserva in: ¿Tiene alguna consulta antes de reservar?
+Line 441: sevilla in: Sevilla, Ciudad de la Música
+Line 451: sevilla in: href="/docs/programa-sevilla-ciudad-musica.pdf"
+Line 452: sevilla in: download="programa-sevilla-ciudad-musica.pdf"
+Line 458: reserva in: href="#reserva"
+Line 470: reserva in: © {new Date().getFullYear()} Ciclo de conciertos Manuel de Falla. Todos los derechos reservados.
