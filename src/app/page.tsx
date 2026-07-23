@@ -40,7 +40,7 @@ export default async function Home() {
           </h1>
 
           <p className="font-serif text-xs sm:text-base md:text-lg text-stone-500 max-w-4xl mb-2 sm:mb-3 italic tracking-wide leading-relaxed">
-            Recital lírico de canto y piano • Domingo, 22 de Noviembre de 2026 <span className="inline-block">— 12:30 h.</span>
+            Recital lírico de canto y piano • Domingo, 22 de Noviembre de 2026 <span className="inline-block">— 12:30 h. Ateneo de Madrid</span>
           </p>
 
           {/* Framed Media Block mimicking ccmfalla.com Paintings */}
