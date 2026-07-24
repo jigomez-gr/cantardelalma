@@ -39,6 +39,4 @@ Thumbs.db
 # raw audio folder
 /sonidos_mp3
 
-# Large video files (>50MB)
-public/videos/cantar_del_alma_concierto.mp4
-public/videos/concierto_dia_de_la_arquitectura.mp4
+

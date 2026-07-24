@@ -5,8 +5,11 @@ echo   Subir cambios a GitHub - Cantar del Alma
 echo ===================================================
 echo.
 
+:: Initialize Git LFS
+git lfs install > nul 2>&1
+
 :: Add all changes
-echo [+] Añadiendo cambios a Git...
+echo [+] Añadiendo cambios a Git (con soporte Git LFS)...
 git add -A
 
 :: Ask user for a commit message
