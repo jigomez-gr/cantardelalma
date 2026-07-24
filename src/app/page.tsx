@@ -15,7 +15,7 @@ import {
 
 export default async function Home() {
 
-  const idEvent = process.env.GIGLON_EVENT_ID || "cantar-del-alma";
+  const idEvent = "cantar-del-alma";
 
   return (
     <div className="bg-[#FAF9F6] text-[#1C1C1C] min-h-screen selection:bg-[#800020] selection:text-white">
