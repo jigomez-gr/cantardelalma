@@ -12,11 +12,20 @@ export default function HeroMedia() {
     // Sync state with audio playback
     useEffect(() => {
         const audio = audioRef.current;
+        const video = videoRef.current;
         if (!audio) return;
 
         if (isMuted) {
             audio.pause();
         } else {
+            // Vídeo y audio duran lo mismo (130s / 2:10). Al activar el sonido,
+            // reiniciamos ambos a la vez para que arranquen sincronizados y
+            // se mantengan acompasados en cada vuelta del loop.
+            if (video) {
+                video.currentTime = 0;
+                video.play().catch(() => { });
+            }
+            audio.currentTime = 0;
             audio.play().catch((err) => {
                 console.warn("Autoplay block or audio play failed:", err);
                 setIsMuted(true);
@@ -43,13 +52,16 @@ export default function HeroMedia() {
 
     const togglePlayVideo = () => {
         const video = videoRef.current;
+        const audio = audioRef.current;
         if (!video) return;
 
         if (isPlaying) {
             video.pause();
+            audio?.pause();
             setIsPlaying(false);
         } else {
             video.play().catch(() => { });
+            if (!isMuted) audio?.play().catch(() => { });
             setIsPlaying(true);
         }
     };
@@ -59,7 +71,7 @@ export default function HeroMedia() {
             {/* Background Audio Loop */}
             <audio
                 ref={audioRef}
-                src="/sonidos_mp3/Erik Satie - Gymnopédie No.1.mp3"
+                src="/sonidos_mp3/cantar_del_alma_130s.mp3"
                 loop
                 preload="auto"
             />
