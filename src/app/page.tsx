@@ -240,7 +240,7 @@ export default async function Home() {
               Vídeos Relacionados
             </h2>
             <p className="text-sm text-[#1C1C1C]/60 mt-3 max-w-xl mx-auto">
-              Grabaciones de conciertos medievales e interpretaciones líricas de Cantar del Alma.
+              Interpretaciones líricas y grabaciones del concierto Cantar del Alma.
             </p>
           </div>
 

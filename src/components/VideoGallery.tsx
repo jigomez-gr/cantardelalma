@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Play, Video, Film, CheckCircle2, ChevronRight, CornerDownRight } from "lucide-react";
+import { Play, Film, CornerDownRight } from "lucide-react";
 
 interface VideoDetail {
     title: string;
@@ -43,117 +43,24 @@ const VIDEO_CATEGORIES: VideoCategory[] = [
                 transcriptionSnippet: "...Aqueste eterno fuente que nace de esta fuente bien se que están capaz y tan potente, aunque este noche..."
             }
         ]
-    },
-    {
-        id: "conciertos-medievales",
-        title: "Conciertos Medievales",
-        label: "Música Antigua, Renacentista & Sacra",
-        image: "/imagenes/imagenes_Laura_fernandez_alcaide/05_laura-fernandez-alcalde-concierto-musica-antigua-clave.jpg",
-        description: "Ciclos dedicados a evocar la acústica sagrada de los templos medievales y la polifonía del renacimiento europeo.",
-        videos: [
-            {
-                title: "Chi vi dará più luce",
-                description: "Interpretación renacentista italiana de corte sacra y amor cortés, centrada en la búsqueda y expresión mística.",
-                filePath: "/videos/chi_vi_dara_piu_luce.mp4",
-                duration: "01:50",
-                transcriptionSnippet: "...Que vino la più lucha o que me lasi... Y tu mi alma y tu língua y tu mano no tiene que decir, ni pensar..."
-            },
-            {
-                title: "Concierto Día de la Arquitectura (F. Varoter 1502)",
-                description: "Extracto en acústica en directo, reflexionando sobre la dualidad entre el espacio arquitectónico, el sonido y el silencio.",
-                filePath: "/videos/concierto_dia_de_la_arquitectura.mp4",
-                duration: "04:15",
-                transcriptionSnippet: "...El silencio no existe, siendo la tarea del compositor el descubrir los medios que consienten a los sonidos..."
-            },
-            {
-                title: "A Canción da Auga - Recital de Canción y Poesía",
-                description: "Una interpretación poética que emula la caída del agua y los sonidos del viento a través de la métrica gallega.",
-                filePath: "/videos/a_cancion_da_auga.mp4",
-                duration: "02:45",
-                transcriptionSnippet: "Préstame, chuvias, tuas palabras, etí, vento, asideas tan longas, déjame ote un rezo breve, río..."
-            },
-            {
-                title: "O meu corasón che mando",
-                description: "Tema tradicional gallego con acompañamiento al piano de Aurelio Viribay, repleto de melancolía y lirismo.",
-                filePath: "/videos/o_meu_corason_che_mando.mp4",
-                duration: "03:01",
-                transcriptionSnippet: "O meu corazón che mando... cantando con cariño e verbas de amor..."
-            }
-        ]
     }
 ];
 
 export default function VideoGallery() {
-    const [selectedCategory, setSelectedCategory] = useState<string>("cantar-del-alma");
     const [playingVideoPath, setPlayingVideoPath] = useState<string | null>(null);
 
-    const activeCategory = VIDEO_CATEGORIES.find(c => c.id === selectedCategory) || VIDEO_CATEGORIES[0];
-
-    const handleSelectCategory = (catId: string) => {
-        setSelectedCategory(catId);
-        setPlayingVideoPath(null);
-    };
+    const activeCategory = VIDEO_CATEGORIES[0];
 
     return (
         <div className="space-y-12">
-            {/* Category Cards Selector */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto select-none">
-                {VIDEO_CATEGORIES.map((cat) => {
-                    const isSelected = selectedCategory === cat.id;
-                    return (
-                        <div
-                            key={cat.id}
-                            onClick={() => handleSelectCategory(cat.id)}
-                            className={`relative aspect-[16/10] rounded-xl overflow-hidden cursor-pointer group shadow-lg border transition-all duration-300 ${isSelected
-                                ? "border-[#800020] ring-4 ring-[#800020]/20 scale-102"
-                                : "border-[#C5A059]/25 hover:border-[#800020]/50 hover:scale-101"
-                                }`}
-                        >
-                            {/* Poster Image */}
-                            <img
-                                src={cat.image}
-                                alt={cat.title}
-                                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                            />
-
-                            {/* Mask overlay */}
-                            <div className={`absolute inset-0 transition-all duration-300 flex flex-col justify-end p-6 ${isSelected
-                                ? "bg-gradient-to-t from-[#800020]/95 via-[#800020]/40 to-black/10"
-                                : "bg-gradient-to-t from-stone-900/90 via-black/35 to-transparent group-hover:from-[#800020]/80"
-                                }`}>
-                                <span className="text-[10px] font-bold tracking-[0.2em] text-[#E9C168] uppercase mb-1">
-                                    {cat.label}
-                                </span>
-                                <h4 className="font-serif text-xl sm:text-2xl font-bold text-white tracking-wide leading-snug">
-                                    {cat.title}
-                                </h4>
-                                <p className="text-stone-200 text-xs mt-1.5 line-clamp-2 font-serif italic font-light">
-                                    {cat.description}
-                                </p>
-
-                                <div className="mt-4 flex items-center justify-between border-t border-white/10 pt-3">
-                                    <span className="text-[10px] text-stone-300 font-sans tracking-wide">
-                                        {cat.videos.length} vídeos disponibles
-                                    </span>
-                                    <span className="text-xs text-[#E9C168] font-bold flex items-center gap-1 group-hover:translate-x-1 transition duration-200">
-                                        Explorar
-                                        <ChevronRight className="w-3.5 h-3.5" />
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    );
-                })}
-            </div>
-
             {/* List and Player Section */}
             <div className="bg-[#FAF9F6] border border-[#C5A059]/30 rounded-2xl p-6 sm:p-8 shadow-xl shadow-[#800020]/5 animate-fadeIn">
                 <div className="border-b border-[#C5A059]/20 pb-4 mb-6">
                     <span className="text-xs uppercase font-bold tracking-widest text-[#C5A059]">
-                        Auditorio Digital • Selección Activa
+                        Auditorio Digital
                     </span>
                     <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#800020] mt-1">
-                        Vídeos de: {activeCategory.title}
+                        Cantar del Alma
                     </h3>
                 </div>
 
