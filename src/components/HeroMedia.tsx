@@ -1,40 +1,38 @@
 "use client";
 
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef } from "react";
 import { Volume2, VolumeX, Maximize, Play, Pause } from "lucide-react";
 
 export default function HeroMedia() {
     const [isMuted, setIsMuted] = useState(true);
     const [isPlaying, setIsPlaying] = useState(true); // video playing
     const videoRef = useRef<HTMLVideoElement>(null);
-    const audioRef = useRef<HTMLAudioElement>(null);
 
-    // Sync state with audio playback
-    useEffect(() => {
-        const audio = audioRef.current;
-        const video = videoRef.current;
-        if (!audio) return;
-
-        if (isMuted) {
-            audio.pause();
-        } else {
-            // Vídeo y audio duran lo mismo (130s / 2:10). Al activar el sonido,
-            // reiniciamos ambos a la vez para que arranquen sincronizados y
-            // se mantengan acompasados en cada vuelta del loop.
-            if (video) {
-                video.currentTime = 0;
-                video.play().catch(() => { });
-            }
-            audio.currentTime = 0;
-            audio.play().catch((err) => {
-                console.warn("Autoplay block or audio play failed:", err);
-                setIsMuted(true);
-            });
-        }
-    }, [isMuted]);
-
+    // El audio ahora va incrustado dentro del propio hero.mp4 (silencio en el
+    // tramo del Ateneo + audio real del concierto en el tramo final), así que
+    // solo hace falta alternar el mute del vídeo. Sin trucos de sincronización,
+    // sin saltos de currentTime.
     const toggleMute = () => {
-        setIsMuted(!isMuted);
+        const video = videoRef.current;
+        if (!video) return;
+
+        const next = !isMuted;
+
+        if (!next) {
+            // Vamos a activar el sonido: en algunos navegadores hay que
+            // relanzar play() tras cambiar muted para que el audio "prenda".
+            video.muted = false;
+            video.play().catch((err) => {
+                console.warn("Autoplay block or audio play failed:", err);
+                video.muted = true;
+                setIsMuted(true);
+                return;
+            });
+        } else {
+            video.muted = true;
+        }
+
+        setIsMuted(next);
     };
 
     const handleFullscreen = () => {
@@ -52,31 +50,20 @@ export default function HeroMedia() {
 
     const togglePlayVideo = () => {
         const video = videoRef.current;
-        const audio = audioRef.current;
         if (!video) return;
 
         if (isPlaying) {
             video.pause();
-            audio?.pause();
             setIsPlaying(false);
         } else {
             video.play().catch(() => { });
-            if (!isMuted) audio?.play().catch(() => { });
             setIsPlaying(true);
         }
     };
 
     return (
         <div className="relative w-full aspect-video rounded-md overflow-hidden bg-black/5 border border-stone-200 group">
-            {/* Background Audio Loop */}
-            <audio
-                ref={audioRef}
-                src="/sonidos_mp3/cantar_del_alma_130s.mp3"
-                loop
-                preload="auto"
-            />
-
-            {/* Video Element */}
+            {/* Video Element (incluye su propio audio) */}
             <video
                 ref={videoRef}
                 autoPlay
@@ -96,7 +83,7 @@ export default function HeroMedia() {
                     <button
                         onClick={toggleMute}
                         className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#800020]/90 text-white text-[10px] sm:text-xs font-bold uppercase tracking-widest hover:bg-[#800020] shadow-md transition duration-200"
-                        title={isMuted ? "Activar música de fondo" : "Desactivar música de fondo"}
+                        title={isMuted ? "Activar sonido" : "Desactivar sonido"}
                     >
                         {isMuted ? (
                             <>
