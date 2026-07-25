@@ -29,10 +29,8 @@ export default async function Home() {
 
         {/* Hero Content */}
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center flex flex-col items-center z-10 w-full">
-          <div className="inline-flex items-center space-x-1.5 text-[8px] sm:text-[9px] tracking-widest text-[#C5A059] uppercase font-bold mb-1.5">
-            <span>Ciclo de conciertos Manuel de Falla</span>
-            <span className="text-[#C5A059]/40">•</span>
-            <span>Presentación Oficial</span>
+          <div className="text-[10px] sm:text-[12px] tracking-widest text-[#C5A059] uppercase font-bold mb-2">
+            Ciclo de conciertos Manuel de Falla
           </div>
 
           <h1 className="font-serif text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-[#800020] uppercase leading-[1.1] mb-1.5 select-none">
