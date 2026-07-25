@@ -147,6 +147,9 @@ export default async function Home() {
           <p>
             Amigo personal de Juan Ramón Jiménez, Rafael Alberti o Federico García Lorca, mantuvo una estrecha relación con la generación del 27. Pero también fue admirador absoluto de San Juan de la Cruz o de escritores de nuestro Siglo de Oro como Miguel de Cervantes o Luis de Góngora de quienes utilizó algunos de sus textos para obras como El Retablo de Maese Pedro o Soneto a Córdoba, así como del poeta catalán Jacint Verdaguer de quien adaptó su poema L´Atlàntida para su obra póstuma.
           </p>
+          <p>
+            La soprano madrileña Laura Fernández Alcalde junto a la pianista Irene de Juan Bernabeu, harán un recorrido por muchos de estos poetas, y algunos más, a los que diversos compositores españoles del siglo XX decidieron poner música.
+          </p>
         </div>
 
         <blockquote className="mt-12 p-8 border border-[#E9C168] bg-[#E9C168]/5 rounded-xl text-left relative overflow-hidden">

@@ -149,7 +149,7 @@ export default function TicketsSection({ idEvent }: TicketsSectionProps) {
                                                 Taquilla Giglon
                                             </span>
                                             <h3 className="font-sans text-sm sm:text-base font-bold text-stone-900 leading-snug mt-1 uppercase tracking-wide">
-                                                VENTA DE ENTRADAS | Cantar del Alma | Ateneo de Madrid | Madrid(MADRID) | GIGLON
+                                                VENTA DE ENTRADAS | Cantar del Alma | Ateneo de Madrid | GIGLON
                                             </h3>
                                         </div>
 
