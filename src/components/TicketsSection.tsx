@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Ticket, Calendar, MapPin, Clock, ShieldCheck, Mail, Phone, Users, Layers, Award, Coins } from "lucide-react";
+import { Ticket, Calendar, MapPin, Clock, ShieldCheck, Mail, Phone } from "lucide-react";
 
 interface TicketsSectionProps {
     idEvent: string;
@@ -185,65 +185,7 @@ export default function TicketsSection({ idEvent }: TicketsSectionProps) {
 
                 </div>
 
-                {/* Sale Conditions Grid */}
-                <div className="mt-16 border-t border-[#C5A059]/20 pt-16">
-                    <h3 className="font-serif text-2xl font-bold text-[#800020] text-center mb-10 uppercase tracking-wider">
-                        Modalidades de Venta y Condiciones
-                    </h3>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                        {/* Option 1: Localidades Sueltas */}
-                        <div className="bg-white border border-[#C5A059]/20 rounded-xl p-6 shadow-sm text-center flex flex-col items-center">
-                            <div className="w-12 h-12 rounded-full bg-[#800020]/5 flex items-center justify-center mb-4 text-[#800020] border border-[#800020]/10">
-                                <Users className="w-5 h-5" />
-                            </div>
-                            <h4 className="font-serif text-sm font-bold text-stone-900 uppercase tracking-widest mb-2 border-b border-[#C5A059]/10 pb-1.5 w-full">
-                                Localidades Sueltas
-                            </h4>
-                            <p className="text-xs text-[#1C1C1C]/75 leading-relaxed">
-                                Entradas para cada uno de los 10 conciertos del Ciclo.
-                            </p>
-                        </div>
 
-                        {/* Option 2: Abonos */}
-                        <div className="bg-white border border-[#C5A059]/20 rounded-xl p-6 shadow-sm text-center flex flex-col items-center">
-                            <div className="w-12 h-12 rounded-full bg-[#800020]/5 flex items-center justify-center mb-4 text-[#800020] border border-[#800020]/10">
-                                <Layers className="w-5 h-5" />
-                            </div>
-                            <h4 className="font-serif text-sm font-bold text-stone-900 uppercase tracking-widest mb-2 border-b border-[#C5A059]/10 pb-1.5 w-full">
-                                Abonos
-                            </h4>
-                            <p className="text-xs text-[#1C1C1C]/75 leading-relaxed">
-                                Existen 4 tipos de abonos. Reserve el suyo y obtenga un mejor precio.
-                            </p>
-                        </div>
-
-                        {/* Option 3: Socios del Ateneo */}
-                        <div className="bg-white border border-[#C5A059]/20 rounded-xl p-6 shadow-sm text-center flex flex-col items-center">
-                            <div className="w-12 h-12 rounded-full bg-[#800020]/5 flex items-center justify-center mb-4 text-[#800020] border border-[#800020]/10">
-                                <Award className="w-5 h-5" />
-                            </div>
-                            <h4 className="font-serif text-sm font-bold text-stone-900 uppercase tracking-widest mb-2 border-b border-[#C5A059]/10 pb-1.5 w-full">
-                                Socios del Ateneo
-                            </h4>
-                            <p className="text-xs text-[#1C1C1C]/75 leading-relaxed">
-                                Todos los conciertos tendrán 25 entradas reservadas para los socios del Ateneo a un precio de 8€.
-                            </p>
-                        </div>
-
-                        {/* Option 4: Taquilla del Ateneo */}
-                        <div className="bg-white border border-[#C5A059]/20 rounded-xl p-6 shadow-sm text-center flex flex-col items-center">
-                            <div className="w-12 h-12 rounded-full bg-[#800020]/5 flex items-center justify-center mb-4 text-[#800020] border border-[#800020]/10">
-                                <Coins className="w-5 h-5" />
-                            </div>
-                            <h4 className="font-serif text-sm font-bold text-stone-900 uppercase tracking-widest mb-2 border-b border-[#C5A059]/10 pb-1.5 w-full">
-                                Taquilla del Ateneo
-                            </h4>
-                            <p className="text-xs text-[#1C1C1C]/75 leading-relaxed">
-                                Desde una hora antes del concierto podrá adquirir su localidad de forma presencial. Rogamos pago en efectivo. Entradas hasta completar aforo.
-                            </p>
-                        </div>
-                    </div>
-                </div>
 
             </div>
         </section>

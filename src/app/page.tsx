@@ -251,40 +251,7 @@ export default async function Home() {
       {/* 10. Sección de Entradas */}
       <TicketsSection idEvent={idEvent} />
 
-      {/* 13. Datos Directos de Contacto */}
-      <section className="py-24 bg-white border-t border-[#C5A059]/25 text-center font-sans">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <span className="text-xs uppercase tracking-widest text-[#D4AF37] font-bold block mb-2">
-            Atención Especializada
-          </span>
-          <h2 className="font-serif text-2xl sm:text-4xl font-bold text-[#800020] mb-4">
-            ¿Tiene alguna consulta antes de reservar?
-          </h2>
-          <p className="text-xs sm:text-sm text-[#1C1C1C]/70 max-w-xl mx-auto mb-10">
-            Póngase en contacto directamente con la secretaría organizadora del Ciclo de Conciertos Manuel de Falla. Estaremos encantados de resolver sus preguntas sobre el concierto.
-          </p>
 
-          <div className="flex flex-wrap items-center justify-center gap-8 text-sm sm:text-base font-semibold">
-
-            <a
-              href="mailto:jose_manuel_hdezblanco@hotmail.com"
-              className="inline-flex items-center justify-center px-6 py-3.5 border border-[#800020]/20 rounded-md text-[#800020] bg-[#800020]/5 hover:bg-[#800020]/10 transition shadow-sm"
-            >
-              <Mail className="w-5 h-5 mr-2 text-[#800020]" />
-              jose_manuel_hdezblanco@hotmail.com
-            </a>
-
-            <a
-              href="tel:660957863"
-              className="inline-flex items-center justify-center px-6 py-3.5 border border-[#2E5A44]/20 rounded-md text-[#2E5A44] bg-[#2E5A44]/5 hover:bg-[#2E5A44]/10 transition shadow-sm"
-            >
-              <Phone className="w-5 h-5 mr-2 text-[#2E5A44]" />
-              +34 660 957 863
-            </a>
-
-          </div>
-        </div>
-      </section>
 
       {/* 14. Footer Elegante */}
       <footer className="bg-[#1C1C1C] text-white py-12 font-sans border-t-2 border-[#C5A059]">
