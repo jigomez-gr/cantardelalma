@@ -142,10 +142,10 @@ export default async function Home() {
 
         <div className="space-y-6 text-base sm:text-lg text-[#1C1C1C]/80 leading-relaxed text-justify sm:text-center">
           <p>
-            El recital lírico "Cantar del Alma" propone un viaje sonoro singular que conecta la hondura espiritual de la canción medieval y del Renacimiento con la brillantez folclórica y expresiva de la canción lírica española del siglo XX.
+            Aunque músico de dedicación absoluta, la primera vocación de Manuel de Falla, de niño, fue la literaria. A lo largo de su vida permaneció siempre en contacto con poetas, escritores y literatos, y realmente una buena parte de la obra de Falla está escrita para la voz humana.
           </p>
           <p>
-            A través de la voz de Laura Fernández Alcalde y el piano de Irene de Juan Bernabeu, el programa hilvana piezas íntimas de Federico García Lorca, Manuel de Falla, Joaquín Turina y Enrique Granados, estableciendo un diálogo atemporal de gran belleza y poesía en la histórica Sala de Conciertos del Ateneo de Madrid.
+            Amigo personal de Juan Ramón Jiménez, Rafael Alberti o Federico García Lorca, mantuvo una estrecha relación con la generación del 27. Pero también fue admirador absoluto de San Juan de la Cruz o de escritores de nuestro Siglo de Oro como Miguel de Cervantes o Luis de Góngora de quienes utilizó algunos de sus textos para obras como El Retablo de Maese Pedro o Soneto a Córdoba, así como del poeta catalán Jacint Verdaguer de quien adaptó su poema L´Atlàntida para su obra póstuma.
           </p>
         </div>
 
