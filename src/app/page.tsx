@@ -33,13 +33,14 @@ export default async function Home() {
             Ciclo de conciertos Manuel de Falla
           </div>
 
-          <h1 className="font-serif text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-[#800020] uppercase leading-[1.1] mb-1.5 select-none">
-            Cantar, <span className="text-stone-800 block text-2xl sm:text-4xl md:text-5xl mt-1 font-serif">del Alma</span>
+          <h1 className="font-serif text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-[#800020] uppercase leading-[1.1] mb-2 sm:mb-3 select-none">
+            Cantar del Alma
           </h1>
 
-          <p className="font-serif text-xs sm:text-base md:text-lg text-stone-500 max-w-4xl mb-2 sm:mb-3 italic tracking-wide leading-relaxed">
-            Recital lírico de canto y piano • Domingo, 22 de Noviembre de 2026 <span className="inline-block">— 12:30 h. Ateneo de Madrid</span>
-          </p>
+          <div className="font-serif text-xs sm:text-base md:text-lg text-stone-500 max-w-4xl mb-3 sm:mb-4 italic tracking-wide leading-relaxed">
+            <p className="block">Recital lírico de canto y piano • Ateneo de Madrid</p>
+            <p className="block mt-0.5 sm:mt-1">Domingo, 22 de Noviembre de 2026 — 12:30 h.</p>
+          </div>
 
           {/* Framed Media Block mimicking ccmfalla.com Paintings */}
           <div className="max-w-6xl w-full bg-white p-2 sm:p-3 rounded-lg border border-[#C5A059]/25 shadow-xl shadow-[#800020]/5 mb-4 hover:shadow-2xl transition duration-500">
