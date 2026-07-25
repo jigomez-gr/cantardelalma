@@ -180,9 +180,6 @@ export default async function Home() {
                 <p>
                   Su histórica Sala de Conciertos posee una acústica excepcional y un ambiente íntimo idóneo para la lírica española de cámara. Entre sus muros, poetas y compositores han compartido y alumbrado obras emblemáticas de nuestra literatura musical.
                 </p>
-                <p>
-                  En este entorno inigualable, "Cantar del Alma" revive los cancioneros renacentistas y las canciones populares transcritas por Lorca bajo la resonancia de los acordes de Falla y Granados.
-                </p>
               </div>
             </div>
 
@@ -220,15 +217,9 @@ export default async function Home() {
       <section id="interpretes" className="py-24 bg-[#FAF9F6] scroll-mt-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <span className="text-xs uppercase tracking-widest text-[#C5A059] font-bold block mb-2">
-              Artistas del Concierto
-            </span>
             <h2 className="font-serif text-3xl sm:text-5xl font-bold text-[#800020] uppercase tracking-wide">
               Intérpretes
             </h2>
-            <p className="text-sm text-[#1C1C1C]/60 mt-3 max-w-xl mx-auto">
-              Biografía y galería fotográfica de las artistas del concierto.
-            </p>
           </div>
 
           <PerformersSection />
