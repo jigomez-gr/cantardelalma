@@ -34,13 +34,6 @@ const VIDEO_CATEGORIES: VideoCategory[] = [
                 filePath: "/videos/cantar_del_alma_concierto.mp4",
                 duration: "03:12",
                 transcriptionSnippet: "...Que la coraje esperanta se me ha convertido en verano, verano amor. Sube, sube, valdón mío..."
-            },
-            {
-                title: "Mompou - Cantar del alma (San Juan de la Cruz)",
-                description: "Pieza intimista al piano inspirada en el canto litúrgico medieval y los poemas de misticismo español.",
-                filePath: "/videos/mompou_cantar_del_alma_san_juan.mp4",
-                duration: "05:12",
-                transcriptionSnippet: "...Aqueste eterno fuente que nace de esta fuente bien se que están capaz y tan potente, aunque este noche..."
             }
         ]
     }
